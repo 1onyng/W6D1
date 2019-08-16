@@ -270,6 +270,6 @@ def toys_that_jet_owns_sub
 
   # USE A SUBQUERY
   execute(<<-SQL)
-
+  d
   SQL
 end
